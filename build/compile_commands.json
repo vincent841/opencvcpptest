@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jinwon/Documents/github/opencvtest/build",
+  "command": "/usr/bin/g++-7   -I/home/jinwon/Documents/github/opencvtest/$(OpenCV_INCLUDE_DIRS) -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/opencvtest.dir/calib_intrinsic.cpp.o -c /home/jinwon/Documents/github/opencvtest/calib_intrinsic.cpp",
+  "file": "/home/jinwon/Documents/github/opencvtest/calib_intrinsic.cpp"
+}
+]
