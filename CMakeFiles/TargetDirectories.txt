@@ -1,3 +1,0 @@
-/home/jinwon/Documents/opencv/opencvapp/opencvtest/CMakeFiles/rebuild_cache.dir
-/home/jinwon/Documents/opencv/opencvapp/opencvtest/CMakeFiles/opencvtest.dir
-/home/jinwon/Documents/opencv/opencvapp/opencvtest/CMakeFiles/edit_cache.dir

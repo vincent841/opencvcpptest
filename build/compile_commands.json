@@ -1,7 +1,12 @@
 [
 {
-  "directory": "/home/jinwon/Documents/github/opencvtest/build",
-  "command": "/usr/bin/g++-7   -I/home/jinwon/Documents/github/opencvtest/$(OpenCV_INCLUDE_DIRS) -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/opencvtest.dir/calib_intrinsic.cpp.o -c /home/jinwon/Documents/github/opencvtest/calib_intrinsic.cpp",
-  "file": "/home/jinwon/Documents/github/opencvtest/calib_intrinsic.cpp"
+  "directory": "/home/jinwon/Documents/github/opencvcpptest/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/opencvcpptest.dir/CalibCameraEngine.cpp.o -c /home/jinwon/Documents/github/opencvcpptest/CalibCameraEngine.cpp",
+  "file": "/home/jinwon/Documents/github/opencvcpptest/CalibCameraEngine.cpp"
+},
+{
+  "directory": "/home/jinwon/Documents/github/opencvcpptest/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/opencvcpptest.dir/CalibCamera.cpp.o -c /home/jinwon/Documents/github/opencvcpptest/CalibCamera.cpp",
+  "file": "/home/jinwon/Documents/github/opencvcpptest/CalibCamera.cpp"
 }
 ]
